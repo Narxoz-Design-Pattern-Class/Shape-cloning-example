@@ -15,3 +15,5 @@ This example demonstrates the **Prototype Pattern** with a simple **Shape** (e.g
 1. **Compile** the Java files (e.g. `Circle.java`, `CloneableShape.java`, `PrototypeDemo.java`):
    ```bash
    javac *.java
+
+   java PrototypeDemo
